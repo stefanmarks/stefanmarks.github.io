@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stefanmarks.github.io./sitemap.xml
+Sitemap: https://stefanmarks.github.io/sitemap.xml
