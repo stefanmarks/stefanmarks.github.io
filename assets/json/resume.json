@@ -2,7 +2,7 @@
   "basics": {
     "name": "Stefan Marks",
     "label": "Creative Technologist",
-    "image": "",
+    "image": "https://stefanmarks.github.io/assets/img/prof_pic-480.webp",
     "email": "stefan.marks.ac@gmail.com",
     "phone": "+64 (9) 921 9999 ext 5028",
     "url": "http://stefanmarks.info",
@@ -16,9 +16,24 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "ORCID",
+        "username": "0000-0002-5997-3136",
+        "url": "https://orcid.org/0000-0002-5997-3136"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "b0t3AiQAAAAJ",
+        "url": "https://scholar.google.com/citations?user=b0t3AiQAAAAJ"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "stefanmarks",
+        "url": "https://www.linkedin.com/in/stefanmarks"
+      },
+      {
+        "network": "Facebook",
+        "username": "stefan.marks.work",
+        "url": "https://facebook.com/stefan.marks.work"
       }
     ]
   },
@@ -68,21 +83,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "The University of Auckland",
@@ -119,14 +119,42 @@
       ]
     }
   ],
-  "_awards": [
+  "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Finalist for the Vice-Chancellor’s Award for Teaching Excellence 2018",
+      "date": "2018-10-18",
+      "awarder": "Auckland University of Technology",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "DCT Faculty Award for Research 2017",
+      "date": "2017-12-07",
+      "awarder": "Auckland University of Technology",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "DCT Faculty Award for Excellence in Learning and Teaching 2014",
+      "date": "2014-12-09",
+      "awarder": "Auckland University of Technology",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Dean's Research Award for Early-Career Researchers",
+      "date": "2013-12-10",
+      "awarder": "Auckland University of Technology",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "1st Prize for best poster at the Exposure 2007 Competition",
+      "date": "2007-10-10",
+      "awarder": "The University of Auckland",
+      "url": "",
+      "summary": ""
+    }    
   ],
   "certificates": [
     {
@@ -150,20 +178,21 @@
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
+    }
+  ],
+  "projects": [
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "SentienceLab Framework",
+      "summary": "Development of a code framework for rapid prototyping of single- and multi-user XR applications for Unity.",
+      "highlights": [
+        "Unity",
+        "XR",
+        "Rapid Prototyping",
+        "Multiuser"
+      ],
+      "startDate": "2019-12-10",
+      "endDate": "",
+      "url": "https://github.com/stefanmarks/SentienceLab_UnityFramework"
     }
   ],
   "skills": [
@@ -223,7 +252,7 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "3D",
-        "Storytelling",
+        "Data-Driven Storytelling",
         "Immersive",
         "Collaborative"
       ]
@@ -250,17 +279,17 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "_projects": [
+  "volunteer": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "organization": "Matuku Link",
+      "location": "Te Henga/Bethells, New Zealand",
+      "position": "GIS Management",
+      "url": "https://matukulink.org.nz/",
+      "startDate": "2018-02-01",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      ]
     }
   ]
 }
