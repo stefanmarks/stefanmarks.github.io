@@ -162,13 +162,13 @@
       "date": "2017-07-17",
       "issuer": "Auckland University of Technology",
       "url": "",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Certificate of Tertiary Education",
       "date": "2014-10",
       "issuer": "Auckland University of Technology",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "_publications": [
@@ -199,7 +199,7 @@
     {
       "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-code",
       "keywords": [
         "C#",
         "C++/C",
@@ -239,7 +239,7 @@
   "interests": [
     {
       "name": "Immersive Technologies",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-universal-access",
       "keywords": [
         "XR",
         "VR",
@@ -249,7 +249,7 @@
     },
     {
       "name": "Visualisation",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-cubes",
       "keywords": [
         "3D",
         "Data-Driven Storytelling",
@@ -259,7 +259,7 @@
     },
     {
       "name": "Electronics",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
         "Arduino",
         "Microcontrollers",
@@ -282,13 +282,17 @@
   "volunteer": [
     {
       "organization": "Matuku Link",
-      "location": "Te Henga/Bethells, New Zealand",
+      "location": "Te Henga/Bethells",
       "position": "GIS Management",
       "url": "https://matukulink.org.nz/",
       "startDate": "2018-02-01",
       "endDate": "",
       "summary": "",
       "highlights": [
+		"Conservation",
+		"Restoration",
+		"Pest Management",
+		"GIS"
       ]
     }
   ]
