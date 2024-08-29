@@ -72,16 +72,12 @@
       year: 2019-now
       description: Package for rapid prototyping of XR applications using Unity
 
-#- title: Honors and Awards
-#  type: time_table
-#  contents:
-#    - year: 1921
-#      items:
-#        - Nobel Prize in Physics
-#        - Matteucci Medal
-#    - year: 2029
-#      items:
-#        - Max Planck Medal
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2007
+      items:
+        - First Place at The University of Auckland Poster Competition
 
 - title: Academic Interests
   type: nested_list
