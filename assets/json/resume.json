@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Stefan Marks",
+    "label": "Creative Technologist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "stefan.marks.ac@gmail.com",
+    "phone": "+64 (9) 921 9999 ext 5028",
+    "url": "http://stefanmarks.info",
+    "summary": "Creative Technologist, XR Specialist, Visualiser, Photographer, Conservationist",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "2 Governor Fitzroy Place",
+      "postalCode": "1010",
+      "city": "Auckland",
+      "countryCode": "NZ",
+      "region": "Auckland"
     },
     "profiles": [
       {
@@ -24,13 +24,48 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "School of Future Environments/Huri te Ao",
+      "position": "Senior Lecturer above the Bar",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Virtual and Immersive Environments (COMP770)",
+        "Synthetic Realities (CTEC601)",
+        "Physical Computing (ENEL599)"
+      ]
+    },
+    {
+      "name": "",
+      "position": "Postgraduate Programme Leader",
+      "url": "",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "summary": "",
+      "highlights": [
+        "Creative Tchnologies"
+      ]
+    },
+    {
+      "name": "",
+      "position": "Senior Lecturer",
+      "url": "",
+      "startDate": "2020-01-01",
+      "endDate": "2022-01-01",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "",
+      "position": "Lecturer",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2020-01-01",
+      "summary": "",
+      "highlights": [
+      ]
     }
   ],
   "volunteer": [
@@ -42,23 +77,49 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "The University of Auckland",
+      "location": "Auckland, New Zealand",
+      "url": "https://auckland.ac.nz",
+      "area": "",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2007-02-01",
+      "endDate": "2011-01-01",
+      "courses": [
+        "Thesis: A Virtual Environment for Medical Teamwork Training With Support for Non-Verbal Communication Using Consumer-Level Hardware and Software"
+      ]
+    },    {
+      "institution": "Westfälische Hochschule",
+      "location": "Gelsenkirchen, Germany",
+      "url": "https://www.w-hs.de/",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2002-10-01",
+      "endDate": "2005-09-01",
+      "courses": [
+        "Thesis: Evolving autonomous locomotion of virtual characters in a simulated physical environment via neural networks and evolutionary strategies"
+      ]
+    },   
+    {
+      "institution": "Westfälische Hochschule",
+      "location": "Gelsenkirchen, Germany",
+      "url": "https://www.w-hs.de/",
+      "area": "Microinformatics",
+      "studyType": "Diplom",
+      "startDate": "1994-10-01",
+      "endDate": "1998-09-01",
+      "courses": [
+      ]
     }
   ],
-  "awards": [
+  "_awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -69,49 +130,20 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Fellow of The Higher Education Academy (HEA)",
+      "date": "2017-07-17",
+      "issuer": "Auckland University of Technology",
+      "url": "",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Certificate of Tertiary Education",
+      "date": "2014-10",
+      "issuer": "Auckland University of Technology",
+      "icon": "fa-solid fa-location-dot"
     }
   ],
-  "publications": [
+  "_publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -136,16 +168,15 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C#",
+        "C++/C",
+        "Java",
+        "Javascript",
+        "R"
       ]
     }
   ],
@@ -159,23 +190,55 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Māori/Te Reo",
+      "fluency": "Basic",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
+      "icon": ""
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Immersive Technologies",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "XR",
+        "VR",
+        "AR",
+        "MR"
+      ]
+    },
+    {
+      "name": "Visualisation",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "3D",
+        "Storytelling",
+        "Immersive",
+        "Collaborative"
+      ]
+    },
+    {
+      "name": "Electronics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Arduino",
+        "Microcontrollers",
+        "Education"
       ]
     }
   ],
-  "references": [
+  "_references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -187,11 +250,14 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "_projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
