@@ -88,7 +88,7 @@
 		"Physical Computing (ENEL599)",
 		"Virtual and Immersive Environments (COMP770)"
       ]
-    ,
+    },
     {
       "name": "School of Mathematics and Compter Science, Auckland University of Technology",
       "position": "Lecturer",
@@ -136,7 +136,7 @@
       "summary": "Development of embedded systems and visualisation software for the steel producing industry",
       "highlights": [
       ]
-	}
+	},
     {
       "name": "MBS GmbH, Germany",
       "position": "Software and Hardware Developer",
