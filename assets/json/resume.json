@@ -39,7 +39,7 @@
   },
   "work": [
     {
-      "name": "School of Future Environments/Huri te Ao",
+      "name": "School of Future Environments/Huri te Ao, Auckland University of Technology",
       "position": "Senior Lecturer above the Bar",
       "url": "",
       "startDate": "2022-01-01",
@@ -52,36 +52,101 @@
       ]
     },
     {
-      "name": "",
+      "name": "School of Future Environments/Huri te Ao, Auckland University of Technology",
       "position": "Postgraduate Programme Leader",
       "url": "",
       "startDate": "2020-01-01",
       "endDate": "2021-01-01",
       "summary": "",
       "highlights": [
-        "Creative Tchnologies"
+        "Creative Technologies"
       ]
     },
     {
-      "name": "",
+      "name": "School of Future Environments/Huri te Ao, Auckland University of Technology",
       "position": "Senior Lecturer",
       "url": "",
       "startDate": "2020-01-01",
       "endDate": "2022-01-01",
       "summary": "",
       "highlights": [
+		"Programming for Creativity (COMP570)",
+		"Physical Computing (ENEL599)",
+		"Synthetic Realities (CTEC601)",
+		"Virtual and Immersive Environments (COMP770)"
       ]
     },
     {
-      "name": "",
+      "name": "Colab/Creative Technologies, Auckland University of Technology",
       "position": "Lecturer",
       "url": "",
-      "startDate": "2011-01-01",
+      "startDate": "2013-01-01",
       "endDate": "2020-01-01",
       "summary": "",
       "highlights": [
+		"Programming for Creativity (COMP570)",
+		"Physical Computing (ENEL599)",
+		"Virtual and Immersive Environments (COMP770)"
       ]
-    }
+    ,
+    {
+      "name": "School of Mathematics and Compter Science, Auckland University of Technology",
+      "position": "Lecturer",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "",
+      "highlights": [
+		"Programming 2 (405704)",
+		"Computer Graphics and Animation (407918)"
+		"Computer Organisation (715187)",
+		"Game Programming (717310)",
+		"Computer Graphics (716288)",
+      ]
+    },
+    {
+      "name": "The University of Auckland",
+      "position": "Tutor and Marker",
+      "url": "",
+      "startDate": "2008-03-01",
+      "endDate": "2010-11-01",
+      "summary": "",
+      "highlights": [
+		"Principles of Computer Science (CompSci 105)",
+        "Computer Graphics and Image Processing (CompSci 373)",
+        "Advanced Computer Graphics (CompSci 715)"
+      ]
+    },
+    {
+      "name": "Four2B GmbH, Germany",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2006-05-01",
+      "endDate": "2006-10-01",
+      "summary": "Creation of an image processing framework for automated testing of mobile phones",
+      "highlights": [		
+      ]
+    },
+    {
+      "name": "ET ELECTROTECHNOLOGY GmbH, Germany",
+      "position": "Software and Hardware Developer",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2006-04-01",
+      "summary": "Development of embedded systems and visualisation software for the steel producing industry",
+      "highlights": [
+      ]
+	}
+    {
+      "name": "MBS GmbH, Germany",
+      "position": "Software and Hardware Developer",
+      "url": "",
+      "startDate": "1997-10-01",
+      "endDate": "2000-12-01",
+      "summary": "Team leader of the R&D department for mobile weighing systems",
+      "highlights": [
+      ]
+	}
   ],
   "education": [
     {
@@ -112,7 +177,7 @@
       "location": "Gelsenkirchen, Germany",
       "url": "https://www.w-hs.de/",
       "area": "Microinformatics",
-      "studyType": "Diplom",
+      "studyType": "Diplom (FH)",
       "startDate": "1994-10-01",
       "endDate": "1998-09-01",
       "courses": [
