@@ -247,8 +247,11 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+	  {% if entry.doi %}
+        <a href="{{ entry.doi | prepend: 'https://doi.org/' }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      {% endif %}
 	  {% if entry.url %}
-        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">Link</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
