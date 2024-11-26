@@ -40,10 +40,23 @@
   "work": [
     {
       "name": "School of Future Environments/Huri te Ao, Auckland University of Technology",
+      "position": "Associate Professor",
+      "url": "",
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Virtual and Immersive Environments (COMP770)",
+        "Synthetic Realities (CTEC601)",
+        "Physical Computing (ENEL599)"
+      ]
+    },
+    {
+      "name": "School of Future Environments/Huri te Ao, Auckland University of Technology",
       "position": "Senior Lecturer above the Bar",
       "url": "",
       "startDate": "2022-01-01",
-      "endDate": "",
+      "endDate": "2024-10-01",
       "summary": "",
       "highlights": [
         "Virtual and Immersive Environments (COMP770)",

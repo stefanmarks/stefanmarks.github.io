@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Senior Lecturer above the Bar at the <a href="https://aut.ac.nz" target="_blank">Auckland University of Technology</a>, New Zealand.
+I am Associate Professor at the <a href="https://aut.ac.nz" target="_blank">Auckland University of Technology</a>, New Zealand.
 
 I lecture Creative Technologies at <a href="https://www.aut.ac.nz/study/study-options/architecture-and-built-environment" target="_blank">Huri Te Ao/School of Future Environments</a>.
 

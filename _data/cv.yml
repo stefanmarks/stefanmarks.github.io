@@ -34,9 +34,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Associate Professor
+      institution: Auckland University of Technology, New Zealand
+      year: 2024 - now
+      description:
+
     - title: Senior Lecturer above the Bar
       institution: Auckland University of Technology, New Zealand
-      year: 2022 - now
+      year: 2022 - 2024
       description:
 
     - title: Senior Lecturer
