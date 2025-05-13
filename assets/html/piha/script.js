@@ -1,0 +1,1 @@
+const onProgress=e=>{const r=e.target.querySelector(".progress-bar");e.target.querySelector(".update-bar").style.width=`${100*e.detail.totalProgress}%`,1===e.detail.totalProgress?(r.classList.add("hide"),e.target.removeEventListener("progress",onProgress)):r.classList.remove("hide")};document.querySelector("model-viewer").addEventListener("progress",onProgress);
