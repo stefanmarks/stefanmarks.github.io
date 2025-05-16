@@ -10,4 +10,4 @@ related_publications: false
 
 This project is a 3D model of Piha and an architectual previsualisation at Nigel Hanlon Memorial hut.
 
-<a href="https://stefanmarks.github.io/assets/html/piha/">Link to the Page</a>.
+<a href="https://stefanmarks.github.io/assets/html/piha/" target="_blank">Link to the Page</a>.
