@@ -12,4 +12,4 @@ This project is a 3D model of a bridge that can be viewed on a phone or in a bro
 The project was initiated by AUTs engineering department who had developed a bridge in a suitcase that can be shown in schools.
 The CAD model provided was processed by me to make an AR experience the students can "take home".
 
-<a href="https://stefanmarks.github.io/assets/html/bridge/" target="_blank">Link to the Page</a>.
+<a href="https://stefanmarks.github.io/assets/html/bridge/index.html" target="_blank">Link to the Page</a>.
