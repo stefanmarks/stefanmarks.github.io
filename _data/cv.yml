@@ -54,13 +54,13 @@
       year: 2011 - 2016
       description:
 
-    - title: Software and Hardware Developer 
+    - title: Software and Hardware Developer
       institution: ET ELECTROTECHNOLOGY GmbH, Germany
       year: 2001 - 2006
       description:
         - Team-based development of embedded systems and visualisation software for the steel producing industry
 
-    - title: Software and Hardware Developer 
+    - title: Software and Hardware Developer
       institution: MBS GmbH, Germany
       year: 1909 - 1911
       description:
@@ -89,7 +89,7 @@
   contents:
     - title: XR Technologies
       items:
-        - Virtual Reality (VR), Augmented Reality (AR), Mixed Reality (MR) 
+        - Virtual Reality (VR), Augmented Reality (AR), Mixed Reality (MR)
     - title: 3D Visualisations
       items:
         - Especially using XR technology to immerse users in the dataset
