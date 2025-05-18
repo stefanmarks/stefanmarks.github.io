@@ -83,10 +83,10 @@
       "endDate": "2022-01-01",
       "summary": "",
       "highlights": [
-		"Programming for Creativity (COMP570)",
-		"Physical Computing (ENEL599)",
-		"Synthetic Realities (CTEC601)",
-		"Virtual and Immersive Environments (COMP770)"
+        "Programming for Creativity (COMP570)",
+        "Physical Computing (ENEL599)",
+        "Synthetic Realities (CTEC601)",
+        "Virtual and Immersive Environments (COMP770)"
       ]
     },
     {
@@ -97,9 +97,9 @@
       "endDate": "2020-01-01",
       "summary": "",
       "highlights": [
-		"Programming for Creativity (COMP570)",
-		"Physical Computing (ENEL599)",
-		"Virtual and Immersive Environments (COMP770)"
+        "Programming for Creativity (COMP570)",
+        "Physical Computing (ENEL599)",
+        "Virtual and Immersive Environments (COMP770)"
       ]
     },
     {
@@ -110,11 +110,11 @@
       "endDate": "2013-01-01",
       "summary": "",
       "highlights": [
-		"Programming 2 (405704)",
-		"Computer Graphics and Animation (407918)",
-		"Computer Organisation (715187)",
-		"Game Programming (717310)",
-		"Computer Graphics (716288)"
+        "Programming 2 (405704)",
+        "Computer Graphics and Animation (407918)",
+        "Computer Organisation (715187)",
+        "Game Programming (717310)",
+        "Computer Graphics (716288)"
       ]
     },
     {
@@ -125,7 +125,7 @@
       "endDate": "2010-11-01",
       "summary": "",
       "highlights": [
-		"Principles of Computer Science (CompSci 105)",
+        "Principles of Computer Science (CompSci 105)",
         "Computer Graphics and Image Processing (CompSci 373)",
         "Advanced Computer Graphics (CompSci 715)"
       ]
@@ -137,7 +137,7 @@
       "startDate": "2006-05-01",
       "endDate": "2006-10-01",
       "summary": "Creation of an image processing framework for automated testing of mobile phones",
-      "highlights": [		
+      "highlights": [       
       ]
     },
     {
@@ -149,7 +149,7 @@
       "summary": "Development of embedded systems and visualisation software for the steel producing industry",
       "highlights": [
       ]
-	},
+    },
     {
       "name": "MBS GmbH, Germany",
       "position": "Software and Hardware Developer",
@@ -159,7 +159,7 @@
       "summary": "Team leader of the R&D department for mobile weighing systems",
       "highlights": [
       ]
-	}
+    }
   ],
   "education": [
     {
@@ -367,10 +367,10 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-		"Conservation",
-		"Restoration",
-		"Pest Management",
-		"GIS"
+        "Conservation",
+        "Restoration",
+        "Pest Management",
+        "GIS"
       ]
     }
   ]
