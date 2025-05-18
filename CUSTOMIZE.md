@@ -179,7 +179,7 @@ exclude:
 
 Here is a list of the main components that you may want to delete, and how to do it. Don't forget if you delete a page to update the `nav_order` of the remaining pages.
 
-### Removing the blog page
+<!-- ### Removing the blog page
 
 To remove the blog, you have to:
 
@@ -198,7 +198,7 @@ You can also:
 - remove the `jekyll-archives-v2` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml) (unless you have a custom collection that uses it)
 - remove the `classifier-reborn` gem from the [Gemfile](Gemfile)
 
-### Removing the news section
+-->### Removing the news section
 
 To remove the news section, you can:
 
