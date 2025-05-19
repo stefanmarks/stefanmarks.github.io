@@ -4,15 +4,19 @@ title: AR Bridge
 description: Augmented Reality bridge model for engineering education
 img: assets/img/bridge/banner.png
 importance: 1
-category: work
+category: work,augmented_reality
 related_publications: false
 ---
 
+<h1>Description</h1>
+
 This project is a 3D model of a bridge that can be viewed on a phone or in a browser, and also placed in the real environment via Augmented Reality.
 The project was initiated by AUTs engineering department who had developed a bridge in a suitcase that can be shown in schools.
-The CAD model provided was processed by me to make an AR experience the students can "take home".
+The CAD model provided was processed by me to create an AR experience that the students can "take home".
 
-<a href="https://stefanmarks.github.io/assets/html/bridge/index.html" target="_blank">Link to the Page</a>.
+<a href="assets/html/bridge/index.html" target="_blank">Link to the Page</a>.
+
+<h1>Screenshots</h1>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">

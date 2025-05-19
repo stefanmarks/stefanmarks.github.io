@@ -4,13 +4,18 @@ title: OBS Web
 description: Control interface for OBS
 img: assets/img/obsweb/banner.png
 importance: 1
-category: work
+category: work, teaching
 related_publications: false
 ---
 
-This project is <a href="https://github.com/stefanmarks/OBS-Web" target="_blank">a fork</a> of <a href="https://github.com/Niek/obs-web" target="_blank">OBS-Web</a> specialised for recording my classes.
+<h1>Description</h1>
+
+This project is <a href="https://github.com/stefanmarks/OBS-Web" target="_blank">a fork</a> 
+of <a href="https://github.com/Niek/obs-web" target="_blank">OBS-Web</a> specialised for recording my classes.
 
 <a href="https://stefanmarks.github.io/assets/html/obsweb/index.html" target="_blank">Link to the Page</a>.
+
+<h1>Screenshot</h1>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
