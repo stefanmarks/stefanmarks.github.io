@@ -6743,7 +6743,7 @@ var app = (function () {
 	}
 
 	const OBS_WEBSOCKET_LATEST_VERSION = '5.0.1'; // https://api.github.com/repos/Palakis/obs-websocket/releases/latest
-	const __APP_VERSION__ = '2025.03';
+	const __APP_VERSION__ = '2025.05';
 	let editable = false;
 
 	function formatTime(secs) {
