@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Creative Technologist, XR Specialist, Visualiser, Photographer, Conservationist
 
 profile:
   align: right
@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
-
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
