@@ -554,7 +554,7 @@ var app = (function () {
 	// general each functions:
 
 	function ensure_array_like(array_like_or_iterator) {
-		return array_like_or_iterator.length !== undefined
+		return array_like_or_iterator?.length !== undefined
 			? array_like_or_iterator
 			: Array.from(array_like_or_iterator);
 	}
@@ -5510,7 +5510,7 @@ var app = (function () {
 		return child_ctx;
 	}
 
-	// (536:10) {:else}
+	// (539:10) {:else}
 	function create_else_block_4(ctx) {
 		let button;
 		let t_value = (/*errorMessage*/ ctx[8] || 'Disconnected') + "";
@@ -5540,7 +5540,7 @@ var app = (function () {
 		};
 	}
 
-	// (373:10) {#if connected}
+	// (376:10) {#if connected}
 	function create_if_block_4(ctx) {
 		let current_block_type_index;
 		let if_block0;
@@ -5686,7 +5686,7 @@ var app = (function () {
 		};
 	}
 
-	// (427:12) {:else}
+	// (430:12) {:else}
 	function create_else_block_3(ctx) {
 		let button;
 		let span;
@@ -5738,7 +5738,7 @@ var app = (function () {
 		};
 	}
 
-	// (401:12) {#if heartbeat && heartbeat.recording && heartbeat.recording.outputActive}
+	// (404:12) {#if heartbeat && heartbeat.recording && heartbeat.recording.outputActive}
 	function create_if_block_6(ctx) {
 		let current_block_type_index;
 		let if_block;
@@ -5849,7 +5849,7 @@ var app = (function () {
 		};
 	}
 
-	// (410:14) {:else}
+	// (413:14) {:else}
 	function create_else_block_2(ctx) {
 		let button;
 		let span;
@@ -5901,7 +5901,7 @@ var app = (function () {
 		};
 	}
 
-	// (402:14) {#if heartbeat.recording.outputPaused}
+	// (405:14) {#if heartbeat.recording.outputPaused}
 	function create_if_block_7(ctx) {
 		let button;
 		let span;
@@ -5953,7 +5953,7 @@ var app = (function () {
 		};
 	}
 
-	// (444:12) {:else}
+	// (447:12) {:else}
 	function create_else_block_1(ctx) {
 		let button;
 		let span;
@@ -6005,7 +6005,7 @@ var app = (function () {
 		};
 	}
 
-	// (436:12) {#if isVirtualCamActive}
+	// (439:12) {#if isVirtualCamActive}
 	function create_if_block_5(ctx) {
 		let button;
 		let span;
@@ -6057,7 +6057,7 @@ var app = (function () {
 		};
 	}
 
-	// (581:4) {:else}
+	// (584:4) {:else}
 	function create_else_block(ctx) {
 		let p0;
 		let t1;
@@ -6158,7 +6158,7 @@ var app = (function () {
 		};
 	}
 
-	// (560:4) {#if connected}
+	// (563:4) {#if connected}
 	function create_if_block(ctx) {
 		let t0;
 		let sceneswitcher;
@@ -6352,7 +6352,7 @@ var app = (function () {
 		};
 	}
 
-	// (561:6) {#if isSceneOnTop}
+	// (564:6) {#if isSceneOnTop}
 	function create_if_block_3(ctx) {
 		let programpreview;
 		let current;
@@ -6389,7 +6389,7 @@ var app = (function () {
 		};
 	}
 
-	// (569:6) {#if !isSceneOnTop}
+	// (572:6) {#if !isSceneOnTop}
 	function create_if_block_2(ctx) {
 		let programpreview;
 		let current;
@@ -6426,7 +6426,7 @@ var app = (function () {
 		};
 	}
 
-	// (573:8) {#if scene.sceneName.indexOf('(switch)') > 0}
+	// (576:8) {#if scene.sceneName.indexOf('(switch)') > 0}
 	function create_if_block_1(ctx) {
 		let sourceswitcher;
 		let current;
@@ -6468,7 +6468,7 @@ var app = (function () {
 		};
 	}
 
-	// (572:6) {#each scenes as scene}
+	// (575:6) {#each scenes as scene}
 	function create_each_block(ctx) {
 		let show_if = /*scene*/ ctx[36].sceneName.indexOf('(switch)') > 0;
 		let if_block_anchor;
@@ -6817,6 +6817,8 @@ var app = (function () {
 				}
 
 				await connect();
+			} else {
+				$$invalidate(5, address = "ws://" + window.location.hostname + ":4455");
 			}
 
 			// Export the sendCommand() function to the window object
