@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A collection of my projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "This page lists GiHub repositories that I have created or contributed to.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/repositories/";
