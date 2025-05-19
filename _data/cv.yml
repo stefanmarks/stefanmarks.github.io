@@ -2,97 +2,94 @@
   type: map
   contents:
     - name: Full Name
-      value: Stefan Marks
+      value: Albert Einstein
     - name: Date of Birth
-      value: 12th April 1973
+      value: 14th March 1879
     - name: Languages
-      value: German (native), English (fluent), French (basic), Dutch (basic), Māori (basic)
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Certificate of Tertiary Education
-      institution: Auckland University of Technology, New Zealand
-      year: 2014
-      description:
     - title: PhD
-      institution: The University of Auckland, New Zealand
-      year: 2011
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - title: A Virtual Environment for Medical Teamwork Training with Support for Non-Verbal Com-munication Using Consumer-Level Hardware and Software
-    - title: Master of Science in Computer Science, Human-Computer Interaction
-      institution: Westfälische Hochschule, Germany
-      year: 2005
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - title: Evolving autonomous locomotion of virtual characters in a simulated physical environment via neural networks and evolutionary strategies
-    - title: Diplom in Technical Microcomputer Science
-      institution: Westfälische Hochschule, Germany
-      year: 1998
-      description:
-        - title: Evolving autonomous locomotion of virtual characters in a simulated physical environment via neural networks and evolutionary strategies
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Professor
-      institution: Auckland University of Technology, New Zealand
-      year: 2024 - now
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
       description:
 
-    - title: Senior Lecturer above the Bar
-      institution: Auckland University of Technology, New Zealand
-      year: 2022 - 2024
-      description:
-
-    - title: Senior Lecturer
-      institution: Auckland University of Technology, New Zealand
-      year: 2016 - 2022
-      description:
-
-    - title: Lecturer
-      institution: Auckland University of Technology, New Zealand
-      year: 2011 - 2016
-      description:
-
-    - title: Software and Hardware Developer
-      institution: ET ELECTROTECHNOLOGY GmbH, Germany
-      year: 2001 - 2006
-      description:
-        - Team-based development of embedded systems and visualisation software for the steel producing industry
-
-    - title: Software and Hardware Developer
-      institution: MBS GmbH, Germany
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
-      description:
-        - Team leader of the R&D department for mobile weighing systems
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/stefanmarks/SentienceLab_UnityMultiuser">SentienceLab Unity Multiuser Framework</a>
-      year: 2021-now
-      description: Package for rapid prototyping of multi-user applications using Unity
-
-    - title: <a href="https://github.com/stefanmarks/SentienceLab_UnityFramework">SentienceLab Unity Framework</a>
-      year: 2019-now
-      description: Package for rapid prototyping of XR applications using Unity
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2007
+    - year: 1921
       items:
-        - First Place at The University of Auckland Poster Competition
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: XR Technologies
+    - title: Topic 1.
       items:
-        - Virtual Reality (VR), Augmented Reality (AR), Mixed Reality (MR)
-    - title: 3D Visualisations
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-        - Especially using XR technology to immerse users in the dataset
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list

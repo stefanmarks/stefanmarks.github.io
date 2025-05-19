@@ -1,12 +1,14 @@
 github_users:
-  - stefanmarks
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - stefanmarks/SentienceLab_UnityFramework
-  - stefanmarks/SentienceLab_UnityMultiuser
-  - stefanmarks/Arduino_LED_Matrix_Editor
-  - stefanmarks/ArduinoCore-renesas
-  - stefanmarks/COMP770_GoogleCardboardVR
-  - stefanmarks/COMP770_AR
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
