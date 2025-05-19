@@ -2,7 +2,7 @@
 layout: page
 title: AR Bridge
 description: Augmented Reality bridge model for engineering education
-img: assets/img/bridge/banner.png
+img: /assets/img/bridge/banner.png
 importance: 1
 category: work,augmented_reality
 related_publications: false
@@ -14,7 +14,7 @@ This project is a 3D model of a bridge that can be viewed on a phone or in a bro
 The project was initiated by AUTs engineering department who had developed a bridge in a suitcase that can be shown in schools.
 The CAD model provided was processed by me to create an AR experience that the students can "take home".
 
-<a href="assets/html/bridge/index.html" target="_blank">Link to the Page</a>.
+<a href="/assets/html/bridge/index.html" target="_blank">Link to the Page</a>.
 
 <h1>Screenshots</h1>
 
