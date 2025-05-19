@@ -35,7 +35,7 @@ I combine these interests in my function as director of Sentience Lab, a facilit
 
 I have eight years of industry experience as a hardware and software developer.
 
-I have a Diplom of Microinformatics and a Masterís Degree in Human-Computer Interaction from the <a href="https://www.w-hs.de/" target="_blank">Westf‰lische Hochschule</a> in Germany.
+I have a Diplom of Microinformatics and a Master's Degree in Human-Computer Interaction from the <a href="https://www.w-hs.de/" target="_blank">Westf√§lische Hochschule</a> in Germany.
 In New Zealand, I received my PhD from <a href="https://auckland.ac.nz" target="_blank">The University of Auckland</a>, a Certificate of Tertiary Education from Auckland University of Technology, and I qualified as a Fellow of the Higher Education Academy (HEA).
 
 In my free time, I enjoy nature photography, ornithology, volunteering for conservation work, and the great NZ outdoors.
