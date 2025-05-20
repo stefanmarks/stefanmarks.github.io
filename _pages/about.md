@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: Creative Technologist, XR Specialist, Visualiser, Photographer, Conservationist
 
