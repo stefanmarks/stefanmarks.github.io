@@ -8,14 +8,14 @@ category: work, teaching
 related_publications: false
 ---
 
-<h1>Description</h1>
+<h2>Description</h2>
 
 This project is <a href="https://github.com/stefanmarks/OBS-Web" target="_blank">a fork</a> 
-of <a href="https://github.com/Niek/obs-web" target="_blank">OBS-Web</a> specialised for recording my classes.
+of <a href="https://github.com/Niek/obs-web" target="_blank">OBS-Web</a> specialised for recording my classes {% cite marks2023computerprogrammophobic %}.
 
-<a href="/assets/html/obsweb/index.html" target="_blank">Link to the Page</a>.
+<a href="/assets/html/obsweb/index.html" target="_blank">Link to the Page</a>
 
-<h1>Screenshot</h1>
+<h2>Screenshot</h2>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">

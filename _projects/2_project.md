@@ -8,15 +8,15 @@ category: work,augmented_reality
 related_publications: false
 ---
 
-<h1>Description</h1>
+<h2>Description</h2>
 
 This project is a 3D model of a bridge that can be viewed on a phone or in a browser, and also placed in the real environment via Augmented Reality.
 The project was initiated by AUTs engineering department who had developed a bridge in a suitcase that can be shown in schools.
 The CAD model provided was processed by me to create an AR experience that the students can "take home".
 
-<a href="/assets/html/bridge/index.html" target="_blank">Link to the Page</a>.
+<a href="/assets/html/bridge/index.html" target="_blank">Link to the Page</a>
 
-<h1>Screenshots</h1>
+<h2>Screenshots</h2>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
