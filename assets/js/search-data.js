@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "List of my publications in reversed chronological order.",
+          description: "This page lists my publications in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A collection of my projects.",
+          description: "A collection of projects that I have been working on during my career.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "This page lists GiHub repositories that I have created or contributed to.",
+          description: "This page lists GitHub repositories that I have created or contributed to.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -47,7 +47,7 @@ ninja.data = [{
               window.location.href = "/projects/ar_bridge.html";
             },},{id: "projects-ar-piha",
           title: 'AR Piha',
-          description: "Augmented Reality model for architectural prefvisualisation",
+          description: "Augmented Reality model for architectural previsualisation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ar_piha.html";
             },},{id: "projects-obs-web",
