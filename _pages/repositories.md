@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: This page lists GiHub repositories that I have created or contributed to.
+description: This page lists GitHub repositories that I have created or contributed to.
 nav: true
 nav_order: 4
 ---

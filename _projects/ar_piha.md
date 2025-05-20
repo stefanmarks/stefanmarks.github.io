@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AR Piha
-description: Augmented Reality model for architectural prefvisualisation
+description: Augmented Reality model for architectural previsualisation
 img: /assets/img/piha/banner.png
 importance: 10
 category: AR

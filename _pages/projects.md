@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of my projects.
+description: A collection of projects that I have been working on during my career.
 nav: true
 nav_order: 3
 display_categories: [AR, Teaching]
