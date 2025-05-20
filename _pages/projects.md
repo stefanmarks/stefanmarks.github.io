@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my projects.
 nav: true
 nav_order: 3
-display_categories: [ar teaching]
+display_categories: [AR, Teaching]
 horizontal: false
 ---
 
