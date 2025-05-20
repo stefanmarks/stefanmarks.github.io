@@ -3,8 +3,8 @@ layout: page
 title: AR Bridge
 description: Augmented Reality bridge model for engineering education
 img: /assets/img/bridge/banner.png
-importance: 1
-categories: work augmented_reality
+importance: 20
+category: Augmented Reality
 related_publications: false
 ---
 

@@ -3,8 +3,8 @@ layout: page
 title: OBS Web
 description: Control interface for OBS
 img: /assets/img/obsweb/banner.png
-importance: 1
-categories: work
+importance: 10
+category: Teaching
 related_publications: false
 ---
 

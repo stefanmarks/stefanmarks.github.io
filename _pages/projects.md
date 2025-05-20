@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my projects.
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: ["Augmented Reality" "Teaching"]
 horizontal: false
 ---
 
