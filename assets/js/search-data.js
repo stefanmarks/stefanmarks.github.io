@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "A collection of my projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "This page lists GiHub repositories that I have created or contributed to.",
@@ -33,21 +40,21 @@ ninja.data = [{
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "projects-obs-web",
-          title: 'OBS Web',
-          description: "Control interface for OBS",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-ar-bridge",
+          section: "News",},{id: "projects-ar-bridge",
           title: 'AR Bridge',
           description: "Augmented Reality bridge model for engineering education",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
+              window.location.href = "/projects/ar_bridge.html";
             },},{id: "projects-ar-piha",
           title: 'AR Piha',
           description: "Augmented Reality model for architectural prefvisualisation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
+              window.location.href = "/projects/ar_piha.html";
+            },},{id: "projects-obs-web",
+          title: 'OBS Web',
+          description: "Control interface for OBS",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/obs-web.html";
             },},{
         id: 'social-facebook',
         title: 'Facebook',
