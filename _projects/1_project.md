@@ -4,7 +4,7 @@ title: OBS Web
 description: Control interface for OBS
 img: /assets/img/obsweb/banner.png
 importance: 1
-category: work teaching
+categories: [work, teaching]
 related_publications: false
 ---
 
