@@ -5,7 +5,7 @@ description: Control interface for OBS
 img: /assets/img/obsweb/banner.png
 importance: 1
 categories: work
-related_publications: false
+related_publications: true
 ---
 
 <h2>Description</h2>
